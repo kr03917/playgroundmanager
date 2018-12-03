@@ -1,0 +1,13 @@
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\bin\Debug\playgroundManager.exe.config
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\bin\Debug\playgroundManager.exe
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\bin\Debug\playgroundManager.pdb
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\obj\Debug\playgroundManager.csprojAssemblyReference.cache
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\obj\Debug\playgroundManager.inventory.resources
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\obj\Debug\playgroundManager.login.resources
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\obj\Debug\playgroundManager.Properties.Resources.resources
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\obj\Debug\playgroundManager.welcome.resources
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\obj\Debug\playgroundManager.csproj.GenerateResource.cache
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\obj\Debug\playgroundManager.csproj.CoreCompileInputs.cache
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\obj\Debug\playgroundManager.exe
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\obj\Debug\playgroundManager.pdb
+D:\Fall 2018\Databases\project\playgroundManager\playgroundManager\obj\Debug\playgroundManager.Workshops.resources
